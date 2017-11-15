@@ -1,0 +1,14 @@
+{
+    "name": "holka-geo-ip-lookup",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "dependencies": {
+        "geoip-lite": "^1.2.1",
+        "node-geoip": "^1.0.1"
+    }
+}
